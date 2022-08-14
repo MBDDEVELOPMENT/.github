@@ -20,7 +20,9 @@
     public enum personalProjects{
          THEBRAIN, // A library used to quickly create plugins.
          GOLINKS,  // A secure url shortener with modern interface. (https://go.mbd.one)
-         YOU       // The only place where you can share your thoughts. (https://you.mbd.one)
+         YOU,      // The only place where you can share your thoughts. (https://you.mbd.one)
+         BYTE,     // One unique place where you can upload files permanently. (https://byte.mbd.one)
+         PHOTOS    // The place where you can upload photos quickly. (https://photos.mbd.one)
     }
 
 ```
